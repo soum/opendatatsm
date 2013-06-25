@@ -34,7 +34,7 @@ Here are some options for providing input to the TSM:
 
 - Provide your comments at the bottom of each page. A free [Disqus](https://disqus.com/), [Facebook](https://facebook.com/), [Twitter](https://twitter.com/), or [Google](https://accounts.google.com/ServiceLogin?hl=en) account is required.
 - Use the &quot;Suggest Changes&quot; button near the bottom of each page to propose edits directly to the content of that page. A free [Github](https://github.com/) account is required.
-- Finally, you prefer to work with your own full copy of the TSM, fork our repository, make direct edits to the markdown and related files - or use an online tool like [prose.io](http://prose.io/) - and then issue a pull request. A free [Github](https://github.com/) account is required.
+- Finally, you prefer to work with your own full copy of the TSM, [fork our repository](https://github.com/CityOfNewYork/opendatatsm/fork), make direct edits to the markdown and related files - or use an online tool like [prose.io](http://prose.io/) - and then issue a pull request. A free [Github](https://github.com/) account is required.
 
 ##Terms of Service
 
