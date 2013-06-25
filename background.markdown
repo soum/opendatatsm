@@ -3,7 +3,7 @@ published: true
 layout: default
 previous: index.html
 next: definitions.html
-edit: "http://prose.io/#technickle/nyc.doitt.opendatatsm/edit/gh-pages/background.markdown"
+edit: "http://prose.io/#CityOfNewYork/opendatatsm/edit/gh-pages/background.markdown"
 ---
 
 #Background
