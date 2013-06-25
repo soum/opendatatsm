@@ -3,7 +3,7 @@ published: true
 layout: default
 previous: publicpolicies.html
 next: LocalLaw11of2012.html
-edit: "http://prose.io/#technickle/nyc.doitt.opendatatsm/edit/gh-pages/publicstandards.markdown"
+edit: "http://prose.io/#CityOfNewYork/opendatatsm/edit/gh-pages/publicstandards.markdown"
 ---
 
 #Public Standards
