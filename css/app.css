@@ -54,11 +54,12 @@ h4 { font-size: 1em; }
 footer {
 	color: #EEE;
     background-color: #292929;
-	height: 35px;
+	height: 55px;
 	top: 1.5em;
 	left: 1.5em;
 	padding: 1em 2em 0 2em;   
 	font-size: 62.5%;
+	margin-top:30px;
 }
 
 footer a {
@@ -91,4 +92,5 @@ box-shadow: 0 10px 0 1px black, 0 16px 0 1px black, 0 22px 0 1px black !importan
 
 .fixedHeader{position: fixed;top: 0;left: 0;right: 0;margin: 0;z-index: 400;}
 .mainBody{margin-top:50px;}
-.top-bar-section .dropdown li a{border-bottom:1px solid #ccc;}
+.top-bar-section .dropdown li a{border-bottom:1px solid #ccc;padding:12px;}
+.top-bar-section .dropdown li a:hover{background:#F0F0F0 !important;}
