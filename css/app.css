@@ -90,4 +90,5 @@ footer ul a:hover {
 box-shadow: 0 10px 0 1px black, 0 16px 0 1px black, 0 22px 0 1px black !important;}
 
 .fixedHeader{position: fixed;top: 0;left: 0;right: 0;margin: 0;z-index: 400;}
-.mainBody{margin-top:50px}
+.mainBody{margin-top:50px;}
+.top-bar-section .dropdown li a{border-bottom:1px solid #ccc;}
