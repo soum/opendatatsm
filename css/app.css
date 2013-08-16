@@ -91,7 +91,7 @@ footer ul a:hover {
 .top-bar .toggle-topbar.menu-icon a span{-webkit-box-shadow: 0 10px 0 1px black, 0 16px 0 1px white, 0 22px 0 1px black !important;
 box-shadow: 0 10px 0 1px black, 0 16px 0 1px black, 0 22px 0 1px black !important;}
 
-.fixedHeader{position: fixed;top: 0;left: 0;right: 0;margin: 0;z-index: 400;}
+.fixedHeader{position: fixed;top: 0;left: 0;right: 0;margin: 0;z-index: 40;}
 .mainBody{margin-top:50px;}
 .top-bar-section .dropdown li a{border-bottom:1px solid #ccc;padding:12px;}
 .top-bar-section .dropdown li a:hover{background:#F0F0F0 !important;}
@@ -101,7 +101,7 @@ box-shadow: 0 10px 0 1px black, 0 16px 0 1px black, 0 22px 0 1px black !importan
 .side-nav li {margin:0;}
 .sideNavToggle{display:none;padding:12px;cursor:pointer;text-align:center;border-bottom:2px solid #ccc;}
 
-@media all and (max-width: 699px){
+@media all and (max-width: 760px){
 .sideNavToggle{display:block;}
 .side-nav{display:none;}
 }

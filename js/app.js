@@ -54,14 +54,14 @@ $(document).ready(function(){
 		});
 
 // toggle for the left side bar on a smaller device
-	$('.sideNavToggle').click(function(){
+	/*$('.sideNavToggle').click(function(){
 		$('.side-nav').toggle();
 		if($('.side-nav').is(':visible')){
 			$(this).html('Hide Side Nav -');
 		}else{
 			$(this).html('Show Side Nav +');
 		}
-	});
+	});*/
 
 
 });
