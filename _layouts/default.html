@@ -54,15 +54,13 @@
 </div>
 	<div class="large-10 columns mainBody">
 		{{content}}
-	</div>
-</div>
-<div class="row">
-	<div class="small-3 columns">
+		
+		<div class="small-3 columns">
 		{% if page.previous %}
 			<a href="{{ page.previous }}" class="small left button secondary">Previous</a>
 		{% endif %}
 	</div>
-  <div class="small-6 columns" style="text-align: center">
+  <div class="small-4 columns" style="text-align: center">
 		{% if page.edit %}
 			<a href="{{ page.edit }}" class="small middle button secondary">Suggest Changes</a>
 		{% endif %}
@@ -72,8 +70,9 @@
 			<a href="{{ page.next }}" class="small right button secondary">Next</a>
 		{% endif %}
 	</div>
-</div>
-<div class="row">
+	
+	</div>
+
 	<div id="disqus_thread"></div>
     	<script type="text/javascript">
 	        var disqus_shortname = 'githubiotsmtest'; 
