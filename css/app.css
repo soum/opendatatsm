@@ -58,7 +58,8 @@ footer {
 	top: 1.5em;
 	left: 1.5em;
 	padding: 1em 2em 0 2em;   
-	font-size: 62.5%;
+	/*font-size: 62.5%;*/
+	font-size:85%;
 	margin-top:30px;
 }
 
@@ -94,3 +95,13 @@ box-shadow: 0 10px 0 1px black, 0 16px 0 1px black, 0 22px 0 1px black !importan
 .mainBody{margin-top:50px;}
 .top-bar-section .dropdown li a{border-bottom:1px solid #ccc;padding:12px;}
 .top-bar-section .dropdown li a:hover{background:#F0F0F0 !important;}
+.fixedSidebar{position: fixed;top: 53px;left: 0;right: 0;margin: 0;z-index: 400;background:white;}
+.side-nav li a{padding:12px;border-bottom:1px solid #ccc}
+.side-nav{padding:0;}
+.side-nav li {margin:0;}
+.sideNavToggle{display:none;padding:12px;cursor:pointer;text-align:center;border-bottom:2px solid #ccc;}
+
+@media all and (max-width: 699px){
+.sideNavToggle{display:block;}
+.side-nav{display:none;}
+}
